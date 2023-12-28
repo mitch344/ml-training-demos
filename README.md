@@ -4,8 +4,8 @@ Welcome to the **ml-training-demos** repository! This collection provides demons
 
 ## Contents
 
-1. [CIFAR-10 Model Training](cifar10_train.py): Training a Convolutional Neural Network (CNN) on the CIFAR-10 dataset.
-2. [MNIST Digit Recognition](mnist_digit_recognition.py): Training a Neural Network for digit recognition on the MNIST dataset.
+1. CIFAR-10: Training a Convolutional Neural Network (CNN) on the CIFAR-10 dataset.
+2. MNIST Digit Recognition: Training a Neural Network for digit recognition on the MNIST dataset.
 
 ## Getting Started
 
